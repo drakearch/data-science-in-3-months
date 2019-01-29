@@ -2,7 +2,7 @@
 
 ## Week 1 - Learn Python
 - EdX https://www.edx.org/course/introduction-python-data-science-2
-![Introduction to Python for Data Science.](Week 1 - Learn Python/Introduction to Python for Data Science.JPG)
+![Introduction to Python for Data Science.](Week%201%20-%20Learn%20Python/Introduction%20to%20Python%20for%20Data%20Science.JPG)
 
 - Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU 
 
