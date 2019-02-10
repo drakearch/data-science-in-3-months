@@ -1,9 +1,18 @@
 # Month 1 - Data Analysis
 
+## Week 1 - Learn Python
+- EdX https://www.edx.org/course/introduction-python-data-science-2
+![Introduction to Python for Data Science.](Week%201%20-%20Learn%20Python/Introduction%20to%20Python%20for%20Data%20Science.JPG)
+
+- Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU 
+
 ## Week 2 - Statistics & Probability
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability
-![Statistics and probability - day 1.](Statistics%20and%20probability%20-%20day%201.jpg)
-![Statistics and probability - day 2.](Statistics%20and%20probability%20-%20day%202.jpg)
-![Statistics and probability - day 3.](Statistics%20and%20probability%20-%20day%203.jpg)
-![Statistics and probability - day 4.](Statistics%20and%20probability%20-%20day%204.jpg)
-![Statistics and probability - day 5.](Statistics%20and%20probability%20-%20day%205.jpg)
+
+## Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis
+- EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis
+
+## Week 4 Kaggle Project #1
+- Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
+- Use [Kaggle Learn](https://www.kaggle.com/learn/overview) as a helpful guide
+
