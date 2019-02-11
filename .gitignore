@@ -2,4 +2,6 @@
 
 # compiled output
 .ipynb_checkpoints/
+
+# config files
 **/config.json
