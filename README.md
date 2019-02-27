@@ -19,12 +19,15 @@ This is my repository for the course [Learn Data Science in 3 Months](https://yo
 ## Week 1 - Learn Python
 - EdX https://www.edx.org/course/introduction-python-data-science-2
 - Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU 
+- [Week 1 summary](Month%201%20-%20Data%20Analysis/Week%201%20-%20Learn%20Python/README.md)
 
 ## Week 2 - Statistics & Probability
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability
+- [Week 2 summary](Month%201%20-%20Data%20Analysis/Week%202%20-%20Statistics%20%26%20Probability/README.md)
 
 ## Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis
 - EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis
+- [Week 3 summary](Month%201%20-%20Data%20Analysis/Week%203%20-%20Computing%20for%20Data%20Analysis/README.md)
 
 ## Week 4 Kaggle Project #1
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
