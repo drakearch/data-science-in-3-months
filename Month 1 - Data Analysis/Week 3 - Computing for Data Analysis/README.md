@@ -31,5 +31,31 @@
 ### Notebook 07: Tidy data and Pandas
 0. [Tidy data and the Pandas module](07%20Tidy%20data%20and%20Pandas/main.ipynb)
 
-### Notebook 01: Visualization tools
+### Notebook 08: Visualization tools
 0. [Tools for visualizing data](08%20Visualization%20tools/main.ipynb)
+
+### Midterm 1 (Audit)
+0. [Two algorithms to calculate sample variance](Midterm%201%20(Audit)/problem0.ipynb)
+1. [Boozy Containers](Midterm%201%20(Audit)/problem1.ipynb)
+2. [DNA Sequence Analysis](Midterm%201%20(Audit)/problem2.ipynb)
+3. [Scans](Midterm%201%20(Audit)/problem3.ipynb)
+
+### Notebook 09: Relational DBs and SQL
+0. [SQLite](09%20Relational%20DBs%20and%20SQL/part0.ipynb)
+1. [NYC 311 calls](09%20Relational%20DBs%20and%20SQL/part1.ipynb)
+
+### Notebook 10: Numpy and Scipy
+0. [Intro to Numpy/Scipy](10%20Numpy%20Scipy/part0.ipynb)
+1. [Supplemental Background on Numpy](10%20Numpy%20Scipy/supplemental_material.ipynb)
+2. [Dense matrix storage](10%20Numpy%20Scipy/part2.ipynb)
+3. [Sparse matrix storage](10%20Numpy%20Scipy/part3.ipynb)
+
+### Notebook 11: Markov chains and pagerank
+0. [Markov chain analysis of the US airport network](11%20Markov%20chains%20and%20pagerank/airport-rank.ipynb)
+
+### Notebook 12: Linear regression
+0. [Sample dataset (LSD)](12%20Linear%20regression/part0-lsd.ipynb)
+1. [Gradients example](12%20Linear%20regression/part1-gradients.ipynb)
+2. [Algorithms for the linear least squares problem](12%20Linear%20regression/part2-algs.ipynb)
+3. [The cost of solving the normal equations](12%20Linear%20regression/part3-cost--OPTIONAL.ipynb)
+4. ["Online" linear regression](12%20Linear%20regression/part4-online.ipynb)
