@@ -59,3 +59,16 @@
 2. [Algorithms for the linear least squares problem](12%20Linear%20regression/part2-algs.ipynb)
 3. [The cost of solving the normal equations](12%20Linear%20regression/part3-cost--OPTIONAL.ipynb)
 4. ["Online" linear regression](12%20Linear%20regression/part4-online.ipynb)
+
+### Notebook 13: Logistic regression
+0. [Logistic regression](13%20Logistic%20regression/main.ipynb)
+
+### Notebook 14: K-means
+0. [Clustering via $k$-means](14%20K-means/main.ipynb)
+
+### Notebook 15: PSA+SVD
+0. [Compression via the PCA and the SVD](15%20PCA%2BSVD/part0.ipynb)
+1. [SVD-based (image) compression](15%20PCA%2BSVD/part1.ipynb)
+
+### Notebook 16: Eigenfaces
+0. [Eigenfaces](16%20Eigenfaces/main.ipynb)
